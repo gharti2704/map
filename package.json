@@ -19,5 +19,8 @@
   "homepage": "https://github.com/gharti2704/map#readme",
   "dependencies": {
     "parcel": "^2.0.0-rc.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
   }
 }
